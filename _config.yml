@@ -1,0 +1,7 @@
+title: Nyute
+description: YouTube와 Netflix의 순간을 기록하고 다시 찾는 영상 노트
+lang: ko
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
